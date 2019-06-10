@@ -1,0 +1,14 @@
+  /* COMPONENT PHOTO DESCRIPTION
+  -------------------------------------------------- */
+  .range {
+    font-weight: bold;
+  }
+  
+  .price {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .mini-description {
+    font-size: 2rem;
+  }
