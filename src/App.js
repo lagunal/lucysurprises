@@ -132,7 +132,7 @@ function App() {
 
       <PhotoItem 
           title='Mini Bouquet '
-          miniDescription='Small and elegant...!'
+          miniDescription='Chick style...!'
           english='It is a Balloon Bouquet in miniature version with Chic Style, seeks to recreate the motive to celebrate for our client in a simple way, with a touch of elegance and without excessive.'
           spanish='Es un Bouquet de Globos en versión miniatura con un estilo Chic, busca recrear el motivo a celebrar por nuestro cliente de una manera sencilla, con un toque de elegancia y sin excesos.'
           price='$99.99 - $115'
@@ -144,7 +144,7 @@ function App() {
 
       <PhotoItem 
           title='Small Bouquet '
-          miniDescription='Small and elegant...!'
+          miniDescription='Fresh style...!'
           english='it is a balloon bouquet with fresh style that stands out in plain sight and denotes with simplicity the motive to celebrate by our client.'
           spanish='Es un Bouquet de Globos que destaca a la vista y denota con sencillez el motivo a celebrar por nuestro cliente.'
           price='$120 - $134.99'
@@ -155,7 +155,7 @@ function App() {
 
       <PhotoItem 
           title='Medium Bouquet '
-          miniDescription='Small and elegant...!'
+          miniDescription='Wonderful...!'
           english='It is a Balloon Bouquet remarkable, which striking for its beautiful decorative details to celebrate and fest that person or moment super special for you. This is our Most Popular Bouquet, because cause a Impressive Surprise Feeling in the persons that receive them.'
           spanish='Es un ramo de globos notable, que destaca por sus hermosos detalles decorativos para celebrar y festejar a esa persona o momento super especial para ti. Este es nuestro ramo más popular, porque causa una sensación de sorpresa impresionante en las personas que los reciben.'
           price='$140 - $169.99'
@@ -167,8 +167,8 @@ function App() {
 
       <PhotoItem 
           title='Large Bouquet '
-          miniDescription='Small and elegant...!'
-          english='It is a balloon bouquet with fresh style que destaca a la vista y denota con sencillez el motivo a celebrar por nuestro cliente.'
+          miniDescription='Awesome...!'
+          english=''
           spanish=''
           price='$180 - $209.99'
           photo='/assets/img/largeBouquet.jpeg'
