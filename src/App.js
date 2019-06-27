@@ -18,17 +18,17 @@ function App() {
               <li className="nav-item active">
                 <a className="nav-link" href="#">Home <span className="sr-only">(current)</span></a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#">Link</a>
+              {/* <li className="nav-item">
+                <a className="nav-link" href="#">Instagram</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">Happy Customers</a>
-              </li>
+              </li> */}
             </ul>
-            <form className="form-inline mt-2 mt-md-0">
+            {/* <form className="form-inline mt-2 mt-md-0">
               <input className="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" />
               <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-            </form>
+            </form> */}
           </div>
         </nav>
       </header>  
@@ -178,7 +178,7 @@ function App() {
 
     <footer className="container">
       <p className="float-right"><a href="#">Back to top</a></p>
-      <p>&copy; 2017-2019 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+      <p>&copy; 2019 Lucy Surprises LLC. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
     </footer>
     </main>
     </React.Fragment>
