@@ -132,7 +132,7 @@ function App() {
 
       <PhotoItem 
           title='Mini Bouquet '
-          miniDescription='Chick style...!'
+          miniDescription='Minimalist...!'
           english='It is a Balloon Bouquet in miniature version with Chic Style, seeks to recreate the motive to celebrate for our client in a simple way, with a touch of elegance and without excessive.'
           spanish='Es un Bouquet de Globos en versión miniatura con un estilo Chic, busca recrear el motivo a celebrar por nuestro cliente de una manera sencilla, con un toque de elegancia y sin excesos.'
           price='$99.99 - $115'
@@ -144,7 +144,7 @@ function App() {
 
       <PhotoItem 
           title='Small Bouquet '
-          miniDescription='Fresh style...!'
+          miniDescription='Fresh...!'
           english='it is a balloon bouquet with fresh style that stands out in plain sight and denotes with simplicity the motive to celebrate by our client.'
           spanish='Es un Bouquet de Globos que destaca a la vista y denota con sencillez el motivo a celebrar por nuestro cliente.'
           price='$120 - $134.99'
